@@ -331,9 +331,4 @@ a.innerHTML=c.toString()
 
    
 }
-op=""  ;
-a = document.getElementById("current") ; 
-st1=a.innerHTML;
-if (parseFloat(st1)===3000.00){
-    a.innerHTML="nhbek 3000 3000 houwa kabar 3dad fi denya" ; 
-}}
+
