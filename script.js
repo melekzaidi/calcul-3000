@@ -330,5 +330,5 @@ c=parseFloat(st2)-parseFloat(st1) ;
 a.innerHTML=c.toString()  
 
    
-}
+}}
 
